@@ -5,8 +5,8 @@
  const btnNao = document.querySelector(".btn-nao")
 
  btnSim.addEventListener("click", () =>{
-    pergunta.innerHTML = "Também te gosto! ❤️";
-    gif.src = "https://gifman.net/wp-content/uploads/2019/06/ursinhos-fofos-coracoes.gif"
+    pergunta.innerHTML = "Te gosto muito! Agora me responda lá no whatsapp e me diga quantas vezes clicou no NÃO antes! hihihi ❤️";
+    gif.src = "https://media1.tenor.com/images/7106845393e9a9d584f82a6d9484c2b0/tenor.gif?itemid=13611267"
  })
 
  btnNao.addEventListener("mouseover", () =>{
