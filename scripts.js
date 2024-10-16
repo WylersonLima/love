@@ -5,7 +5,7 @@
  const btnNao = document.querySelector(".btn-nao")
 
  btnSim.addEventListener("click", () =>{
-    pergunta.innerHTML = "Te gosto muito! Agora me responda lá no whatsapp e me diga quantas vezes clicou no NÃO antes! hihihi ❤️";
+    pergunta.innerHTML = "Te gosto muito! Agora me responda lá no whatsapp e me diga quantas vezes clicou no NÃO antes! hihi ❤️";
     gif.src = "https://media1.tenor.com/images/7106845393e9a9d584f82a6d9484c2b0/tenor.gif?itemid=13611267"
  })
 
