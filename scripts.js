@@ -6,7 +6,7 @@
 
  btnSim.addEventListener("click", () =>{
     pergunta.innerHTML = "Assim que estiver livre da faculdade, me avise que irei buscar você! Te amo! hehehe ❤️";
-    gif.src = "https://media1.tenor.com/m/CWiMSbUwDogAAAAC/hozier-gigglatafuneral.gif"
+    gif.src = data-width="60%" "https://media1.tenor.com/m/_nz04mDOaTcAAAAd/andrew-john-hozier-byrne-hozier.gif" 
  })
 
  btnNao.addEventListener("mouseover", () =>{
